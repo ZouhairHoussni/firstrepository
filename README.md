@@ -15,3 +15,5 @@ test
 test 2
 
 modification on remote
+
+branch conflict
